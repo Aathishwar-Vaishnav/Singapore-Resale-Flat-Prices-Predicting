@@ -1,4 +1,7 @@
 # 🏘️ Singapore Resale Flat Prices Prediction
+
+Render link: https://singapore-resale-flat-prices-predicting-ddiq.onrender.com/
+
 📌 Project Summary
 This project leverages machine learning to predict resale prices of Singapore's HDB flats. By analyzing historical transaction data, it provides an interactive tool for users to estimate flat prices based on various features.​
 
